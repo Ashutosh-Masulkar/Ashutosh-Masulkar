@@ -34,7 +34,7 @@ I specialize in turning data into actionable insights that drive business growth
 Visualized **$12.3T global funding** from 500+ startups  
 *Tech:* Python, Dash, Plotly  
 
-📌 **[Customer Churn Prediction](https://github.com/Ashutosh-Masulkar/customer-churn-analysis)**  
+📌 **[Customer Churn Prediction](https://github.com/Ashutosh-Masulkar/Telecom_Customer_Churn_Analysis/blob/main/README.md)**  
 80% accuracy, projected 18% lower churn  
 *Tech:* R, ML Models, AUC/ROC  
 
