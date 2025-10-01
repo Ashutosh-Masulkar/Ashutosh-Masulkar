@@ -29,17 +29,19 @@ I specialize in turning data into actionable insights that drive business growth
 ---
 
 ## 🚀 Featured Projects
-📌 **[Startup Investment Dashboard](link-to-repo)**  
+
+📌 **[Startup Investment Dashboard](https://github.com/Ashutosh-Masulkar/startup-dashboard)**  
 Visualized **$12.3T global funding** from 500+ startups  
 *Tech:* Python, Dash, Plotly  
 
-📌 **[Customer Churn Prediction](link-to-repo)**  
+📌 **[Customer Churn Prediction](https://github.com/Ashutosh-Masulkar/customer-churn-analysis)**  
 80% accuracy, projected 18% lower churn  
 *Tech:* R, ML Models, AUC/ROC  
 
-📌 **[Colorectal Cancer Survival Prediction](link-to-repo)**  
-~80% accuracy on 866K patient records  
-*Tech:* Python, CatBoost, LightGBM  
+📌 **[Colorectal Cancer Survival Prediction](https://github.com/Ashutosh-Masulkar/colorectal-cancer-survival-prediction)**  
+~80% accuracy on 866K patient records using CatBoost & LightGBM  
+*Tech:* Python, Pandas, NumPy, Scikit-learn, LightGBM, CatBoost, Matplotlib, Seaborn
+
 
 ---
 
