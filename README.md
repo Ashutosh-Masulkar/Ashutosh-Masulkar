@@ -52,12 +52,7 @@ Visualized **$12.3T global funding** from 500+ startups
 **Techniques:** ETL, Regression, Predictive Modeling, Machine Learning  
 **Methodologies:** Agile, Scrum, Data Governance  
 
----
 
-## 📊 GitHub Stats  
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Masulkar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Masulkar&layout=compact&theme=radical)  
- 
 ---
 
 ## 📫 Let’s Connect  
