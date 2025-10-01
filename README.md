@@ -30,7 +30,7 @@ I specialize in turning data into actionable insights that drive business growth
 
 ## 🚀 Featured Projects
 
-📌 **[Startup Investment Dashboard](https://github.com/Ashutosh-Masulkar/startup-dashboard)**  
+📌 **[Startup Investment Dashboard](https://github.com/Ashutosh-Masulkar/Start-Up-Growth-Investment-Dashboard/tree/main)**  
 Visualized **$12.3T global funding** from 500+ startups  
 *Tech:* Python, Dash, Plotly  
 
