@@ -3,63 +3,72 @@
 ---
 
 ## 💡 About Me  
-Data Analyst with 3+ years of experience in **ETL pipelines, predictive modeling, and BI dashboards**.  
-I specialize in turning data into actionable insights that drive business growth.  
+Data Analyst with experience across **data pipelines, analytics, and predictive modeling**.  
+I focus on building reliable data workflows and analytical solutions that support better business decisions.
 
-✨ Highlights:  
-- Visualized **$12.3T in startup funding** through interactive dashboards  
-- Designed models that delivered a **$5M projected annual revenue uplift**  
-- Automated ETL workflows, saving **7+ days of reporting time**  
+✨ Areas of focus:
+- Data ingestion, cleaning, and transformation (ETL)
+- Exploratory analysis and predictive modeling
+- Dashboards and reporting for business stakeholders
 
 ---
 
 ## Career Snapshot
 
 **Data Analyst – Walmart Inc. (2024–Present)**  
-Transaction analytics, demand forecasting, and supply chain optimization →  
-Improved inventory planning accuracy, automated validation workflows, and supported category managers with real-time insights.
+Transaction analytics, demand forecasting, and supply chain reporting →  
+Supported inventory planning, automated validation workflows, and enabled data-driven decisions for operations and category teams.
 
 **Data Analyst – Capgemini (2022–2023)**  
-Automated ETL pipelines, forecasting models, and Power BI dashboards →  
-Reduced manual reporting effort, improved staffing utilization, and enabled faster, data-driven project planning.
+ETL pipelines, forecasting models, and Power BI dashboards →  
+Improved reporting efficiency, supported staffing and planning decisions, and increased transparency for business stakeholders.
 
 **Data Analyst – Polycab India (2019–2020)**  
 Tableau dashboards, demand analysis, and SKU-level reporting →  
-Reduced excess inventory, improved fulfillment reliability, and supported cost-efficient supply chain operations.
-
+Supported inventory management, fulfillment planning, and cost-aware supply chain operations.
 
 ---
 
 ## 🚀 Featured Projects
 
+📌 **[Data Warehouse and Analytics Project](https://github.com/Ashutosh-Masulkar/sql-data-warehouse-project)**  
+End-to-end data warehouse built with SQL Server and Medallion Architecture (Bronze, Silver, Gold) to support business analytics and reporting  
+*Tech:* SQL Server, T-SQL, Star schema, ETL, Documentation  
+
 📌 **[Startup Investment Dashboard](https://github.com/Ashutosh-Masulkar/Start-Up-Growth-Investment-Dashboard/tree/main)**  
-Visualized **$12.3T global funding** from 500+ startups  
+Interactive dashboards exploring large-scale startup funding and growth trends  
 *Tech:* Python, Dash, Plotly  
 
 📌 **[Customer Churn Prediction](https://github.com/Ashutosh-Masulkar/Telecom_Customer_Churn_Analysis/blob/main/README.md)**  
-80% accuracy, projected 18% lower churn  
-*Tech:* R, ML Models, AUC/ROC  
+Predictive modeling and evaluation of customer retention and churn patterns  
+*Tech:* R, Machine Learning, AUC/ROC  
 
 📌 **[Colorectal Cancer Survival Prediction](https://github.com/Ashutosh-Masulkar/colorectal-cancer-survival-prediction)**  
-~80% accuracy on 866K patient records using CatBoost & LightGBM  
-*Tech:* Python, Pandas, NumPy, Scikit-learn, LightGBM, CatBoost, Matplotlib, Seaborn
+Predictive modeling on clinical datasets with feature engineering and evaluation  
+*Tech:* Python, Pandas, NumPy, Scikit-learn, LightGBM, CatBoost   
 
+📌 **[Startup Investment Dashboard](https://github.com/Ashutosh-Masulkar/Start-Up-Growth-Investment-Dashboard/tree/main)**  
+Interactive dashboards exploring large-scale startup funding and growth trends  
+*Tech:* Python, Dash, Plotly  
 
 ---
 
 ## 🔧 Skills  
+
 **Languages & Databases:** Python, R, SQL, MySQL, PostgreSQL, SQL Server  
-**Visualization Tools:** Power BI, Tableau, Dash, Looker  
-**Cloud & Data Platforms:** AWS, Azure, Google Cloud, Snowflake, BigQuery, Hadoop, Spark  
+**Visualization:** Power BI, Tableau, Dash, Looker  
+**Cloud & Platforms:** AWS, Azure, Snowflake  
 **Techniques:** ETL, Regression, Predictive Modeling, Machine Learning  
 **Methodologies:** Agile, Scrum, Data Governance  
-
 
 ---
 
 ## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-masulkar-75a50919b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshmasulkar40@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-masulkar-75a50919b)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.m@myjobfolio.com)  
 
 ---
-⭐️ From [Ashutosh-Masulkar](https://github.com/Ashutosh-Masulkar) with ❤️
+
+Maintained by [Ashutosh-Masulkar](https://github.com/Ashutosh-Masulkar)
+](https://github.com/Ashutosh-Masulkar) with ❤️
