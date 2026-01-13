@@ -13,18 +13,20 @@ I specialize in turning data into actionable insights that drive business growth
 
 ---
 
-## 💼 Career Snapshot
-- **Senior Data Analyst – American Express (2024–Present)**  
-  Fraud monitoring, segmentation models, LTV predictions →  
-  **$5M uplift & 22% better fraud detection**  
+## Career Snapshot
 
-- **Data Analyst – Capgemini (2022–2023)**  
-  Automated ETL pipelines & Power BI dashboards →  
-  **50% faster prep time & 20% higher client satisfaction**  
+**Data Analyst – Walmart Inc. (2024–Present)**  
+Transaction analytics, demand forecasting, and supply chain optimization →  
+Improved inventory planning accuracy, automated validation workflows, and supported category managers with real-time insights.
 
-- **Jr. Data Analyst – Polycab (2019–2020)**  
-  Tableau dashboards & app engagement analysis →  
-  **30% cost reduction & 2x engagement**  
+**Data Analyst – Capgemini (2022–2023)**  
+Automated ETL pipelines, forecasting models, and Power BI dashboards →  
+Reduced manual reporting effort, improved staffing utilization, and enabled faster, data-driven project planning.
+
+**Data Analyst – Polycab India (2019–2020)**  
+Tableau dashboards, demand analysis, and SKU-level reporting →  
+Reduced excess inventory, improved fulfillment reliability, and supported cost-efficient supply chain operations.
+
 
 ---
 
