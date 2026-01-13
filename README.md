@@ -35,10 +35,6 @@ Supported inventory management, fulfillment planning, and cost-aware supply chai
 End-to-end data warehouse built with SQL Server and Medallion Architecture (Bronze, Silver, Gold) to support business analytics and reporting  
 *Tech:* SQL Server, T-SQL, Star schema, ETL, Documentation  
 
-📌 **[Startup Investment Dashboard](https://github.com/Ashutosh-Masulkar/Start-Up-Growth-Investment-Dashboard/tree/main)**  
-Interactive dashboards exploring large-scale startup funding and growth trends  
-*Tech:* Python, Dash, Plotly  
-
 📌 **[Customer Churn Prediction](https://github.com/Ashutosh-Masulkar/Telecom_Customer_Churn_Analysis/blob/main/README.md)**  
 Predictive modeling and evaluation of customer retention and churn patterns  
 *Tech:* R, Machine Learning, AUC/ROC  
