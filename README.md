@@ -1,70 +1,62 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Ashutosh+Masulkar+👋;Data+Analyst+📊)](https://git.io/typing-svg)
+# Hi, I'm Ashutosh Masulkar 👋
+
+Supply Chain Analyst with 4+ years of experience turning complex operational data into clear, actionable insights. I work across demand forecasting, inventory planning, KPI reporting, and supply chain analytics — building tools and dashboards that help teams make faster, better decisions.
 
 ---
 
-## 💡 About Me  
-Data Analyst with experience across **data pipelines, analytics, and predictive modeling**.  
-I focus on building reliable data workflows and analytical solutions that support better business decisions.
+## About Me
 
-✨ Areas of focus:
-- Data ingestion, cleaning, and transformation (ETL)
-- Exploratory analysis and predictive modeling
-- Dashboards and reporting for business stakeholders
+- 🔍 Focused on supply chain analytics, demand planning, and operational reporting
+- 📊 Building KPI dashboards, automating reporting workflows, and improving forecast accuracy
+- 🏥 Currently at **UnitedHealth Group** — supporting healthcare supply chain planning and analytics
+- 🎓 MS in Business Analytics — University of Dayton (2023–2025)
 
 ---
 
-## Career Snapshot
+## Experience
 
-**Data Analyst – Walmart Inc. (2024–Present)**  
-Transaction analytics, demand forecasting, and supply chain reporting →  
-Supported inventory planning, automated validation workflows, and enabled data-driven decisions for operations and category teams.
+**Supply Chain Analyst — UnitedHealth Group** *(Sept 2024 – Present)*
+Demand forecasting, inventory analysis, replenishment planning, and KPI dashboard development for healthcare supply chain operations. Reduced rework by 25%, improved reporting turnaround to same-day visibility, and eliminated 15+ manual hours/month through automation.
 
-**Data Analyst – Capgemini (2022–2023)**  
-ETL pipelines, forecasting models, and Power BI dashboards →  
-Improved reporting efficiency, supported staffing and planning decisions, and increased transparency for business stakeholders.
+**Jr. Supply Chain Analyst — Blinkit** *(Apr 2022 – Aug 2023)*
+Order and inventory analytics for high-volume e-commerce operations. Built Tableau dashboards, improved data accuracy by 25%, and delivered 5+ process improvements across fulfillment workflows.
 
-**Data Analyst – Polycab India (2019–2020)**  
-Tableau dashboards, demand analysis, and SKU-level reporting →  
-Supported inventory management, fulfillment planning, and cost-aware supply chain operations.
+**Operations Analyst — Trigent** *(Dec 2019 – Dec 2020)*
+Operational data analysis, forecasting, and reporting automation. Improved forecast accuracy by 40% and reduced report preparation time from 1 day to a few hours.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-📌 **[Data Warehouse and Analytics Project](https://github.com/Ashutosh-Masulkar/sql-data-warehouse-project)**  
-End-to-end data warehouse built with SQL Server and Medallion Architecture (Bronze, Silver, Gold) to support business analytics and reporting  
-*Tech:* SQL Server, T-SQL, Star schema, ETL, Documentation  
+**[Data Warehouse & Analytics](https://github.com/Ashutosh-Masulkar/sql-data-warehouse-project)**
+End-to-end data warehouse using SQL Server and Medallion Architecture (Bronze → Silver → Gold) to support business analytics and reporting.
+*SQL Server · T-SQL · Star Schema · ETL*
 
-📌 **[Customer Churn Prediction](https://github.com/Ashutosh-Masulkar/Telecom_Customer_Churn_Analysis/blob/main/README.md)**  
-Predictive modeling and evaluation of customer retention and churn patterns  
-*Tech:* R, Machine Learning, AUC/ROC  
+**[Customer Churn Prediction](https://github.com/Ashutosh-Masulkar/Telecom_Customer_Churn_Analysis/blob/main/README.md)**
+Predictive model to identify churn risk and support customer retention decisions.
+*R · Machine Learning · AUC/ROC*
 
-📌 **[Colorectal Cancer Survival Prediction](https://github.com/Ashutosh-Masulkar/colorectal-cancer-survival-prediction)**  
-Predictive modeling on clinical datasets with feature engineering and evaluation  
-*Tech:* Python, Pandas, NumPy, Scikit-learn, LightGBM, CatBoost   
+**[Colorectal Cancer Survival Prediction](https://github.com/Ashutosh-Masulkar/colorectal-cancer-survival-prediction)**
+Clinical dataset modeling with feature engineering and ensemble methods.
+*Python · Scikit-learn · LightGBM · CatBoost*
 
-📌 **[Startup Investment Dashboard](https://github.com/Ashutosh-Masulkar/Start-Up-Growth-Investment-Dashboard/tree/main)**  
-Interactive dashboards exploring large-scale startup funding and growth trends  
-*Tech:* Python, Dash, Plotly  
-
----
-
-## 🔧 Skills  
-
-**Languages & Databases:** Python, R, SQL, MySQL, PostgreSQL, SQL Server  
-**Visualization:** Power BI, Tableau, Dash, Looker  
-**Cloud & Platforms:** AWS, Azure, Snowflake  
-**Techniques:** ETL, Regression, Predictive Modeling, Machine Learning  
-**Methodologies:** Agile, Scrum, Data Governance  
+**[Startup Investment Dashboard](https://github.com/Ashutosh-Masulkar/Start-Up-Growth-Investment-Dashboard/tree/main)**
+Interactive dashboard exploring large-scale startup funding and growth trends.
+*Python · Dash · Plotly*
 
 ---
 
-## 📫 Let’s Connect  
+## Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-masulkar-75a50919b)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.m@myjobfolio.com)  
+**Analytics & Languages:** Python · SQL · R · Advanced Excel (Pivot Tables, Power Query, XLOOKUP)
+**Supply Chain:** Demand Forecasting · Inventory Optimization · Replenishment Planning · Safety Stock · MRP · S&OP · Capacity Planning · Logistics Analysis · Procurement Reporting
+**Visualization:** Power BI · Tableau · QlikView
+**ERP & Platforms:** SAP · Oracle ERP · Microsoft Dynamics 365 · Snowflake · Alteryx
+**Collaboration:** JIRA · Confluence · MS Project · Smartsheet · Agile · Scrum
 
 ---
 
-Maintained by [Ashutosh-Masulkar](https://github.com/Ashutosh-Masulkar)
-](https://github.com/Ashutosh-Masulkar) with ❤️
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-masulkar-75a50919b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh@myjobfolio.com)
