@@ -12,6 +12,7 @@ My focus areas include:
 
 Featured Project:
 **SCM Demand Forecasting Engine**
+
 A Streamlit app that forecasts weekly demand, compares ARIMA, Prophet, and XGBoost using MAPE, and converts forecasts into safety stock, reorder point, and inventory cost decisions.
 
 Tools: Python | SQL | Pandas | Streamlit | Power BI | Tableau | Excel
